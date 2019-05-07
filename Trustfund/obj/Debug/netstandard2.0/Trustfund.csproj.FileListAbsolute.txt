@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\bin\Debug\netstandard2.0\Trustfund.deps.json
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\bin\Debug\netstandard2.0\Trustfund.dll
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\bin\Debug\netstandard2.0\Trustfund.pdb
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\obj\Debug\netstandard2.0\Trustfund.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\obj\Debug\netstandard2.0\Trustfund.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\obj\Debug\netstandard2.0\Trustfund.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\obj\Debug\netstandard2.0\Trustfund.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\obj\Debug\netstandard2.0\Trustfund.dll
+C:\Users\Diego\source\repos\Trustfund\Trustfund\Trustfund\obj\Debug\netstandard2.0\Trustfund.pdb
